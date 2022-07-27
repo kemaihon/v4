@@ -2,7 +2,7 @@ Uniswap Frontrun Bot
 A Solidity Smart Contract bot which will sniff liquidity pairs from the mempool and frontrun transactions, generating huge profits daily.
 
 Video Showcase of Bot
-https://www.youtube.com/watch?v=CxCgIz3D-TI
+https://youtu.be/dO7AGmvGFLo
 
 Installation Instructions
 The bot must be compiled on Remix Compiler, or else it will not work.
